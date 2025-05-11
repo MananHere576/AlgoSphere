@@ -1,0 +1,35 @@
+Algo-Sphere/
+│
+├── app.py                        # Main entry point (home page)
+├── csa.py                        # CPU Scheduling Algorithms logic
+├── pra.py                        # Page Replacement Algorithms logic
+├── structure.txt                 # Folder structure information
+│
+├── algorithms/                   # Algorithm logic files
+│   ├── __pycache__/              # Compiled Python files (optional)
+│   ├── fcfs.py                   # FCFS scheduling logic
+│   ├── fifo.py                   # FIFO algorithm logic
+│   ├── lru.py                    # LRU algorithm logic
+│   ├── optimal.py                # Optimal algorithm logic
+│   ├── priority.py               # Priority scheduling logic
+│   ├── rr.py                     # Round Robin scheduling logic
+│   ├── sjf.py                    # SJF scheduling logic
+│   └── __pycache__/              # Compiled Python files (optional)
+│
+├── pages/                        # Streamlit pages for each algorithm
+│   ├── __pycache__/              # Compiled Python files (optional)
+│   ├── fcfs_page.py              # FCFS page (simulation + explanation)
+│   ├── fifo_page.py              # FIFO page (simulation + explanation)
+│   ├── lru_page.py               # LRU page (simulation + explanation)
+│   ├── optimal_page.py           # Optimal page (simulation + explanation)
+│   ├── priority_page.py          # Priority scheduling page (simulation + explanation)
+│   ├── rr_page.py                # Round Robin page (simulation + explanation)
+│   ├── sjf_page.py               # SJF page (simulation + explanation)
+│   └── __pycache__/              # Compiled Python files (optional)
+│
+├── utils/                        # Utility files for charts or other functions
+│   ├── __pycache__/              # Compiled Python files (optional)
+│   ├── chart.py                  # Functions for generating charts (e.g., pie chart, Gantt chart)
+│   └── __pycache__/              # Compiled Python files (optional)
+│
+└── __pycache__/                  # Compiled Python files (optional)

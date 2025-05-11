@@ -80,35 +80,6 @@ Ready to run AlgoSphere on your own machine? Follow these simple steps:
 
     Visit the app at `http://localhost:8501` (or the port specified in your terminal).
 
-## 🗂️ Project Structure
-
-Algo-Sphere/
-├── app.py                      # Main entry point (home page)
-├── csa.py                      # CPU Scheduling Algorithms logic
-├── pra.py                      # Page Replacement Algorithms logic
-├── structure.txt               # Folder structure information
-│
-├── algorithms/                 # Algorithm logic files
-│   ├── fcfs.py                 # FCFS scheduling logic
-│   ├── fifo.py                 # FIFO algorithm logic
-│   ├── lru.py                  # LRU algorithm logic
-│   ├── optimal.py              # Optimal algorithm logic
-│   ├── priority.py             # Priority scheduling logic
-│   ├── rr.py                   # Round Robin scheduling logic
-│   ├── sjf.py                  # SJF scheduling logic
-│
-├── pages/                    # Streamlit pages for each algorithm
-│   ├── fcfs_page.py            # FCFS page (simulation + explanation)
-│   ├── fifo_page.py            # FIFO page (simulation + explanation)
-│   ├── lru_page.py             # LRU page (simulation + explanation)
-│   ├── optimal_page.py         # Optimal page (simulation + explanation)
-│   ├── priority_page.py        # Priority scheduling page (simulation + explanation)
-│   ├── rr_page.py              # Round Robin page (simulation + explanation)
-│   ├── sjf_page.py             # SJF page (simulation + explanation)
-│
-├── utils/                    # Utility files for charts or other functions
-│   └── chart.py                # Functions for generating charts (e.g., pie chart, Gantt chart)
-
 
 ## ⚙️ Technologies Used
 

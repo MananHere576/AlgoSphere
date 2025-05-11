@@ -18,7 +18,6 @@ Built with the power of **Streamlit**, the versatility of **Python**, and the vi
 * **FIFO (First In First Out)**: Understand the simplicity of the first-come, first-served approach.
 * **LRU (Least Recently Used)**: Explore how keeping track of recent usage impacts page faults.
 * **Optimal**: Witness the theoretical best-case scenario in page replacement.
-* **Clock (Second Chance)**: See a practical and efficient approximation of LRU.
 
 ### 🖥️ CPU Scheduling Algorithms
 
